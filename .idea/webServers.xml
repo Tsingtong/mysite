@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="42683f34-66f4-4ec5-aa42-199ce9a1d0ee" name="Beijing CentOS server" url="http://140.143.26.67">
+        <fileTransfer host="140.143.26.67" port="21" rootFolder="/data/ftp/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
